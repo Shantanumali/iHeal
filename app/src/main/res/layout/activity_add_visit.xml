@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/deta1"
+    android:alpha="0.95"
+    tools:context=".AddVisitActivity">
+
+
+    <Button
+        android:id="@+id/buttonAddMeds"
+        android:layout_width="223dp"
+        android:layout_height="48dp"
+        android:background="@drawable/bt_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:onClick="onClick"
+        android:text="Add Prescriptions"
+        android:textColor="#80323232"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.699" />
+
+    <EditText
+        android:id="@+id/editTextSymptoms"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:background="@drawable/et_bg"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Symptoms"
+        android:inputType="textMultiLine"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.278" />
+
+    <TextView
+        android:id="@+id/textViewPatientName"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="57dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="89dp"
+        android:background="@drawable/et_bg"
+        android:hint="Name"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.305"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.005" />
+
+    <EditText
+        android:id="@+id/EditTextReasonOfVisit"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:background="@drawable/et_bg"
+        android:hint="Reason Of Visit"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.442" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

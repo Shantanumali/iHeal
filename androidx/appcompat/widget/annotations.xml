@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.appcompat.widget.Toolbar'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

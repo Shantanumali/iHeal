@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:7:5-37:19
+	android:supportsRtl
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.doctor.update_patient
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.doctor.logindoc
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:15:9-46
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:15:19-43
+activity#com.example.doctor.AddPrescriptionsActivity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:16:9-62
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:16:19-59
+activity#com.example.doctor.ViewVisitActivity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:17:9-55
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:17:19-52
+activity#com.example.doctor.PatientProfileActivity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:18:9-20:59
+	android:theme
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:19:13-51
+activity#com.example.doctor.AddVisitActivity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.example.doctor.updatepassword
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:22:9-24:59
+	android:parentActivityName
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.example.doctor.forgotpass
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:25:19-45
+activity#com.example.doctor.Main2Activity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.doctor.PatientRegisterFormActivity
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:27:19-62
+activity#com.example.doctor.splashscreen
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:theme
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.doctor.register
+ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:36:9-46
+	android:name
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml:36:19-43
+uses-sdk
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\AndroidStudioProjects\Lolthisissurelyfinal\app\src\main\AndroidManifest.xml
